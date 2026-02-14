@@ -91,8 +91,8 @@ function App() {
             {showTrial && (
               <div className="mt-4 p-6 bg-amber-50 rounded-2xl border border-amber-200 w-full max-w-md">
                 <div className="space-y-2 text-center">
-                  <p><span className="text-gray-600">رمز الطالب:</span> <code className="bg-white px-3 py-1 rounded font-mono">SCH-OFDMQZ2A-STUSC0001</code></p>
-                  <p><span className="text-gray-600">كلمة المرور:</span> <code className="bg-white px-3 py-1 rounded font-mono">12345678</code></p>
+                  <p><span className="text-gray-600">رمز الطالب:</span> <code className="bg-white px-3 py-1 rounded font-mono">STUSC0001</code></p>
+                  <p><span className="text-gray-600">كلمة المرور:</span> <code className="bg-white px-3 py-1 rounded font-mono">ZZZZZZZZ</code></p>
                 </div>
               </div>
             )}
