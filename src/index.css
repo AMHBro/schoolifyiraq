@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+/*
+  لوحة سكولفاي (مستمدة من البوسترات الترويجية):
+  - sf-deep / sf-primary: البنفسجي الغامق للخلفيات والعناوين
+  - sf-soft: اللافندر للتدرجات والحدود الخفيفة
+  - sf-banner: شريط التواصل الفاتح (~#9d7ec9)
+  معهد السوداني يبقى بلون دافئ (amber) كهوية شراكة.
+*/
+@theme {
+  --color-sf-deep: #2d1b4e;
+  --color-sf-primary: #4c1d95;
+  --color-sf-muted: #6d28d9;
+  --color-sf-soft: #c4b5fd;
+  --color-sf-banner: #9d7ec9;
+  --color-sf-glow: #ede9fe;
+}
